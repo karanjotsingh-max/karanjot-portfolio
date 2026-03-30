@@ -520,10 +520,10 @@ export default function Home() {
 
                 <div className="space-y-4">
                   <Link
-                    href="mailto:karanjo2@ualberta.ca"
+                    href="mailto:singhkaranjot212@gmail.com"
                     className="group flex items-center gap-3 text-foreground hover:text-muted-foreground transition-colors duration-300"
                   >
-                    <span className="text-base sm:text-lg">karanjo2@ualberta.ca</span>
+                    <span className="text-base sm:text-lg">singhkaranjot212@gmail.com</span>
                     <svg
                       className="w-5 h-5 transform group-hover:translate-x-1 transition-transform duration-300"
                       fill="none"
