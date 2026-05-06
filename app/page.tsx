@@ -250,7 +250,7 @@ export default function Home() {
               <div className="space-y-4">
                 <div className="text-sm text-muted-foreground font-mono">CURRENTLY</div>
                 <div className="space-y-2">
-                  <div className="text-foreground">Fullstack Software Developer</div>
+                  <div className="text-foreground">Software Engineer</div>
                   <div className="text-muted-foreground">@ Government of Alberta</div>
                   <div className="text-xs text-muted-foreground">May 2025 - Present</div>
                 </div>
@@ -293,7 +293,7 @@ export default function Home() {
               {[
                 {
                   year: "2025",
-                  role: "Fullstack Software Developer",
+                  role: "Software Engineer",
                   company: "Government of Alberta",
                   description:
                     "Fixed critical billing defects protecting $1B+ in annual revenue; modernized legacy .NET flows and led STRIDE threat modeling across the internal platform.",
@@ -537,7 +537,7 @@ export default function Home() {
                     href="tel:+14036811823"
                     className="text-base text-muted-foreground transition-colors duration-300 hover:text-foreground sm:text-lg"
                   >
-                    403-681-1823
+                    +1 403-681-1823
                   </a>
                 </div>
               </div>
